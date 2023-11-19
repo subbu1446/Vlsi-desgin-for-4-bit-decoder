@@ -1,4 +1,4 @@
-# Vlsi-desgin-for-4-bit-decoder
+# VLSI-desgin-for-4-bit-decoder
 
 
  A 4-bit decoder has 4 input lines and 16 output lines. That is 16 decoding gates are required to decode all possible
