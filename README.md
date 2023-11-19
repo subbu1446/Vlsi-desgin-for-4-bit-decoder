@@ -13,3 +13,10 @@ The logic output functions for each digit can be obtained from KMAP or taking AN
 Example: D C B A
                  0  0  0  1
 Logic expression for output is D’C’B’A.
+
+Tools Used:
+
+DSCH2 for CMOS logical level circuit designs
+ i.e Decoder circuit, AND circuit
+Microwind for CMOS Layout
+ i.e AND Layout
